@@ -1,0 +1,21 @@
+
+.card{
+   padding: 10px 15px;
+   border-radius: 15px;
+}
+
+.card img{
+    width: 65%;
+    border-radius: 3%;
+    margin: auto;
+
+}
+.card-title{
+    text-align: center;
+    background-color: rgb(240, 237, 227);
+    
+}
+span{
+    
+    color: blue;
+}
